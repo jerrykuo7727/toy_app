@@ -1,24 +1,3 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Toy App
+A teeny-tiny web app made with Rails, following [RoR Tutorial Chapter 2](https://www.railstutorial.org/book/toy_app).
+### [Deployed on Heroku, check it out :)!](https://toy-app-by-jiazhi.herokuapp.com/)
